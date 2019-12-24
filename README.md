@@ -1,4 +1,4 @@
-# <Project Name>
+# Make A Music App
 
 <Project Description>
 
@@ -34,11 +34,11 @@ Command + R
 
 Bug reports and feature requests can be filed with the rest for the Ruby on Rails project here:
 
-- [File Bug Reports and Features](https://github.com/<user-name>/<project-repo>/issues)
+- [File Bug Reports and Features](https://github.com/conradwt/make-a-music-app/issues)
 
 ## License
 
-<Project Name> is released under the [MIT license](https://mit-license.org).
+Make A Music App is released under the [MIT license](https://mit-license.org).
 
 ## Copyright
 
